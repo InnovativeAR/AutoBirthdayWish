@@ -23,7 +23,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   [git clone https://github.com/your_username_/Project-Name.git](https://github.com/InnovativeAR/AutoBirthdayWish)
 
 2. Install required packages
 pip install pandas sqlalchemy win10toast
